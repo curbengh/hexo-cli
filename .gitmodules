@@ -1,3 +1,4 @@
 [submodule "assets"]
 	path = assets
-	url = https://github.com/hexojs/hexo-starter.git
+	url = https://github.com/curbengh/hexo-starter.git
+	branch = optional-false
